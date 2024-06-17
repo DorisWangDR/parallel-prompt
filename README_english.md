@@ -1,7 +1,7 @@
 # Parallel prompt of GPT
 Hi, we have built a web page application which can be used for parallel prompt processing using GPT api.   
 This project is based on [parallel_process_gpt](https://github.com/tiny-rawr/parallel_process_gpt).  
-中文说明点击：[README](https://github.com/DorisWangDR/parallel-prompt/blob/main/README.md)
+中文说明点击：[README](https://github.com/JasonJYang/parallel-prompt/blob/main/README.md)
 
 ## 1 instruction
 1) Open a command line and create a new environment:  
