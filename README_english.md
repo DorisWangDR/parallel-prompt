@@ -1,5 +1,6 @@
 # Parallel prompt of GPT
 Hi, we have built a web page application which can be used for parallel prompt processing using GPT api.   
+This project is based on [parallel_process_gpt](https://github.com/tiny-rawr/parallel_process_gpt).  
 中文说明点击：[README](https://github.com/DorisWangDR/parallel-prompt/blob/main/README.md)
 
 ## 1 instruction
@@ -24,3 +25,6 @@ Hi, we have built a web page application which can be used for parallel prompt p
    Click RUN to run, the running time may vary from a few minutes to a few hours, the time depends on the amount of data.  
    After running, the download button will appear, download the output.
 <center><img src="https://github.com/DorisWangDR/parallel-prompt/blob/main/website_example.png" alt="website_screenshot" width="50%"/></center>
+
+## 3 Acknowledgement
+Thanks to [parallel_process_gpt](https://github.com/tiny-rawr/parallel_process_gpt).
