@@ -10,7 +10,7 @@ The English instruction click here: [README_english](https://github.com/DorisWan
 2) 激活环境：  
 `conda activate chatgpt_env`
 3) 定位到该文件夹：  
-`cd C:\<该文件夹路径>`
+`cd <该文件夹路径>`
 4) 在这个文件夹下运行：  
 `pip install -r requirements.txt`
 
@@ -21,3 +21,6 @@ The English instruction click here: [README_english](https://github.com/DorisWan
 `* Running on http://127.0.0.1:5000`  
    复制链接到浏览器打开，如下图所示。 输入你的api的Base URL和KEY，Prompt，选择模型名称，上传文件，点击RUN运行，运行时间可能从几分钟到几小时不等，时间取决于数据量大小，运行完之后，下载按钮会出现，一键下载。
 <center><img src="https://github.com/DorisWangDR/parallel-prompt/blob/main/website_example.png" alt="website_screenshot" width="50%"/></center>
+
+### 3 致谢
+特别感谢[parallel_process_gpt](https://github.com/tiny-rawr/parallel_process_gpt).
